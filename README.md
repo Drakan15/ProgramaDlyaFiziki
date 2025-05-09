@@ -52,10 +52,10 @@
 
 ```bash
 # Скомпилируй
-g++ -o physics_solver main.cpp
+g++ -o Fizika.cpp
 
 # Запусти
-./physics_solver
+./Fizika
 ```
 
 🛠 Требуется компилятор C++ (GCC, MSVC, Clang и т.п.)
